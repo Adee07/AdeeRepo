@@ -5,4 +5,4 @@ Guava
 Starfruit
 Jackfruits
 Watermelons
-Orange
+Oranges
