@@ -18,3 +18,29 @@ jobs:
         
       - name: Create File mads
         run: touch mads
+        
+      - name: Run Multiple Commands
+        run: |
+          echo 1. What is in this directory?
+          ls -lah
+          echo
+          echo 2. Is Java installed?
+          java -version
+          echo
+          echo 3. Is Git Installed?
+          git --version
+          echo
+          echo 4. What is the workspace location?
+          echo $RUNNER_WORKSPACE
+          echo
+          echo 5. Who is running this script?
+          whoami
+          echo
+          echo 6. How is the disc laid out?
+          df
+          echo
+          echo 7. What environment variables are available?
+          env
+  
+
+        
