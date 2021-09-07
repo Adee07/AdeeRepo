@@ -2,4 +2,4 @@ Apple
 Banana
 Mango
 Guava
-Starfruit
+Starfruits
