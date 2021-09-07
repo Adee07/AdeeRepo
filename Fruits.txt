@@ -3,4 +3,4 @@ Banana
 Mango
 Guava
 Starfruit
-Jackfruit
+Jackfruits
