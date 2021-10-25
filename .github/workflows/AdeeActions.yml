@@ -9,10 +9,7 @@ jobs:
   Extract:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: API Call
-        run: https://api.github.com/repos/Adee07/AdeeRepo/pulls?state=closed
-    
+    steps:  
       - name: Checkout Repository
         uses: actions/checkout@v2
         
