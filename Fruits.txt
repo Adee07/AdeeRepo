@@ -9,3 +9,4 @@ Oranges
 Pineapple
 Pear
 Tomato
+Strawberry
