@@ -6,4 +6,9 @@ Starfruit
 Jackfruits
 Watermelons
 Oranges
+<<<<<<< Updated upstream
 Pineapple
+=======
+Pineapples
+Pear
+>>>>>>> Stashed changes
