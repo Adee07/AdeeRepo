@@ -7,3 +7,4 @@ Jackfruits
 Watermelons
 Oranges
 Pineapple
+Pear
