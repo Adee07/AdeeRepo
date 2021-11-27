@@ -8,4 +8,4 @@ Watermelon
 Oranges
 Pineapple
 Pear
-Tomatoes
+Tomato
