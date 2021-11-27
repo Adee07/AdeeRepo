@@ -3,8 +3,8 @@ Banana
 Mango
 Guava
 Starfruit
-Jackfruits
-Watermelons
+Jackfruit
+Watermelon
 Oranges
 Pineapple
 Pear
