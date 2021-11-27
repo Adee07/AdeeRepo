@@ -6,4 +6,6 @@ Starfruit
 Jackfruit
 Watermelon
 Oranges
-Pineapples
+Pineapple
+Pear
+Tomato
