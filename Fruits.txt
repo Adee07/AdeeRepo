@@ -3,12 +3,7 @@ Banana
 Mango
 Guava
 Starfruit
-Jackfruits
-Watermelons
+Jackfruit
+Watermelon
 Oranges
-<<<<<<< Updated upstream
-Pineapple
-=======
 Pineapples
-Pear
->>>>>>> Stashed changes
